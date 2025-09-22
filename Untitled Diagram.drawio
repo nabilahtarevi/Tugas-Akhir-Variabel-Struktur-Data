@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="on1NY-zZsfzRrFtnTUBj">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.44" y="-28" as="sourcePoint" />
+            <mxPoint x="319" y="9" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.44" y="70" as="sourcePoint" />
+            <mxPoint x="320" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="319.94" y="89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="173" as="sourcePoint" />
+            <mxPoint x="320" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="318.94" y="276" as="sourcePoint" />
+            <mxPoint x="319" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-12" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="268.5" y="-63" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-13" value="Inisialisasi array harga&lt;div&gt;jumlahBarang = 10&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="217" y="10" width="205" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-14" value="Tampilkan daftar harga[i]" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="210.5" y="215" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-16" value="selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="269.5" y="406" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317.94" y="370" as="sourcePoint" />
+            <mxPoint x="318" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-18" value="Input harga[i] untuk i = 0.&lt;div&gt;&amp;nbsp;total = total + harga[i]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#FAD9D5;" vertex="1" parent="1">
+          <mxGeometry x="217" y="112" width="210.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="2ANUuW_mbYtpuG68GVgD-19" value="Tampilkan total" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#FAD9D5;" vertex="1" parent="1">
+          <mxGeometry x="207" y="313" width="205.5" height="57" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
